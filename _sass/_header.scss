@@ -3,9 +3,9 @@
  */
 .site-header {
     border-top: 0px solid $grey-color-dark;
-	border-bottom: 4px solid $uniwup-purple;
-    min-height: 44px;
-    background: $uniwup-green;
+	border-bottom: 2px solid $ritesh-headline;
+    min-height: 40px;
+    background: $ritesh-header;
     // Positioning context for the mobile navigation icon
     position: relative;
 
@@ -82,23 +82,23 @@
 	letter-spacing: 0;
 	line-height: 1.2em;
 	padding: 4px 10px;
-color: #522d80;
+color: #ffffff;
 
 }
 
 .site-nav .sub-menu a:hover {
-	color: $uniwup-green;
+	color: #ffffff;
 }
 .site-nav  .sub-menu {
-	background: #ffffff;
-	border-color: $uniwup-purple;
+	background: $ritesh-header;
+	border-color: $ritesh-headline;
 	min-width: 265px;
 
 	z-index:2147483647;
 }
 .site-nav .sub-menu li.current-menu-item > a {
-	border-left-color: $uniwup-green;
-	border-right-color: $uniwup-green;
+	border-left-color: $ritesh-header;
+	border-right-color: $ritesh-header;
 	border-right: 0px;
 
 }
@@ -157,7 +157,7 @@ z-index:999;
 
     .page-link {
         color: #ffffff;
-    background: $uniwup-green;
+    background: $ritesh-header;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one

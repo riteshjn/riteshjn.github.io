@@ -1,11 +1,67 @@
 ---
 layout: page
-title: CV
+title: Ritesh Jain
 permalink: /cv/
 ---
+# Contact Information
+---
 
-I embed a current version of my CV below. You can also [download the PDF here](https://www.dropbox.com/s/30ah9tgxevj1vl9/svm-cv.pdf).
+| --------:|:------------- |
+| **ORCID**	| 0000-0000-00 |
+| **LinkedIn** | riteshjain01 |
+| **Github** | riteshjn |
+| **Office phone** | 0000-0000-0000 |
+| **fax** | 1111111111 |
+| **Office address** | 22 Baker Street London |
 
-{% include embedpdf.html code="30ah9tgxevj1vl9/svm-cv.pdf" width=100 height=800 %}
+&nbsp;
 
+# Education
+***
+
+* My qualification1
+* My qualification2
+
+&nbsp;
+
+# Professional experience
+***
+In table form
+
+&nbsp;
+
+# Research interests
+***
+Interests
+
+&nbsp;
+
+# Publications
+***
+## Journal publications
+1. Publication
+1. Publication
+
+## Conference publications
+1. Publication
+1. Publication
+
+## Books and Book chapters
+1. Book1
+1. Book2
+
+&nbsp;
+
+# Teaching and Mentoring
+***
+teaching
+
+&nbsp;
+
+
+# Awards
+***
+List of awards
+
+&nbsp;
 
