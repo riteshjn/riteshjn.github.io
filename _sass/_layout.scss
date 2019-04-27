@@ -75,11 +75,11 @@
  */
 .site-footer {
     border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
+    padding: 0;
 }
 
 .footer-heading {
-    font-size: 18px;
+    font-size: 1px;
     margin-bottom: $spacing-unit / 2;
 }
 
@@ -98,8 +98,9 @@
 
 .footer-col {
     float: left;
-    margin-bottom: $spacing-unit / 2;
-    padding-left: $spacing-unit / 2;
+    margin-bottom: $spacing-unit / 4;
+    padding-left: $spacing-unit / 4;
+    padding-right: 0;
 }
 
 .footer-col-1 {
@@ -113,6 +114,7 @@
 }
 
 .footer-col-3 {
+    float: right;
     width: -webkit-calc(45% - (#{$spacing-unit} / 2));
     width:         calc(45% - (#{$spacing-unit} / 2));
 }
@@ -125,6 +127,7 @@
     }
 
     .footer-col-3 {
+        float: right;
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
         width:         calc(100% - (#{$spacing-unit} / 2));
     }
@@ -149,6 +152,7 @@
 
 .page-heading {
     font-size: 20px;
+    color: #000000;
 }
 
 .post-list {
@@ -184,7 +188,7 @@ h1 /* .post-title */ {
     letter-spacing: -1px;
     line-height: 1;
 		font-family: 'Titillium Web', sans-serif;
-		color: #522d80;
+		color: #0f0f0f;
 
     @include media-query($on-laptop) {
 /*        font-size: 36px; */
@@ -250,7 +254,7 @@ ul.listing li.listing-item time {
 }
 
 ul.listing li.listing-item a {
-	color: $uniwup-purple;
+	color: #000000;
 	font-weight: 400;
 	font-family: 'Titillium Web', sans-serif;
 }
