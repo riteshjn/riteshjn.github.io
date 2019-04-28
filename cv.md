@@ -3,7 +3,7 @@ layout: page
 title: Ritesh Jain
 permalink: /cv/
 ---
-# Contact Information
+# <a name="contact"></a>Contact Information
 ---
 
 | --------:|:------------- |
@@ -36,7 +36,7 @@ Interests
 
 &nbsp;
 
-# Publications
+# <a name="publications"></a> Publications
 ***
 ## Journal publications
 1. Publication
