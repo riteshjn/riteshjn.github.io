@@ -1,9 +1,13 @@
 ---
-layout: page
-title: Ritesh Jain
+layout: cv
+title: CV
 permalink: /cv/
 ---
-# <a name="contact"></a>Contact Information
+#  Ritesh Jain
+{: style="text-align: center"}
+### PhD researcher in Electrical Engineering
+{: style="text-align: center"}
+### <a name="contact"></a>Contact Information
 ---
 
 | --------:|:------------- |
