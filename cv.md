@@ -4,10 +4,10 @@ title: CV
 permalink: /cv/
 ---
 #  Ritesh Jain
-{: style="text-align: center"}
+{: style="color:gray; font-size: 140%; text-align: center;"}
 ### PhD researcher in Electrical Engineering
 {: style="text-align: center"}
-### <a name="contact"></a>Contact Information
+# <a name="contact"></a>Contact Information
 ---
 
 | --------:|:------------- |
