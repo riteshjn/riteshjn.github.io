@@ -128,7 +128,7 @@ permalink: /cv/
 
 *[IC]: Integrated circuit
 
-## Miscellanoeus
+## Miscellaneous
 {: style="color:black; font-size: 1.2em; margin-bottom: 2px"}
 &bull; Proposal writing (*DFG & EU research funding*) &bull; Technical writing &bull; Research communication &bull; Presentations &bull;
 
