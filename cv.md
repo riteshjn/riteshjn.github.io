@@ -36,12 +36,11 @@ permalink: /cv/
 {: style="color:gainsboro; margin-bottom: 2px"}
 
 |:--------|:-------|
-| [Nov. 2014&mdash;*] &nbsp;&nbsp;&nbsp;| **Scientific Research Assistant** &nbsp; [University of Wuppertal](https://www.uni-wuppertal.de/), Wuppertal, Germany. |
+| [Nov2014 - Present] &nbsp;| **Scientific Research Assistant** &nbsp; [University of Wuppertal](https://www.uni-wuppertal.de/), Wuppertal, Germany. |
 |&nbsp;| *[Institute for High-Frequency & Communication Technology](https://www.ihct.uni-wuppertal.de/), Chair: [Prof. Dr. rer. nat. Ullrich R. Pfeiffer](https://www.ihct.uni-wuppertal.de/en/staff/prof-dr-rer-nat-ullrich-pfeiffer.html)* |
-| [Sep. 2013&mdash;Mar. 2014] &nbsp;&nbsp;&nbsp;| **Visiting Researcher** &nbsp; [IHP Microelectronics](https://www.ihp-microelectronics.com/en/start.html), Frankfurt (Oder), Germany. |
-| [June 2011&mdash;July 2011] &nbsp;&nbsp;&nbsp;| **Summer Intern** &nbsp; [Central Electronics Limited](http://www.celindia.co.in/), Sahibabad (U.P.), India. |
+| [Sep2013 - Mar2014] &nbsp;| **Visiting Researcher** &nbsp; [IHP Microelectronics](https://www.ihp-microelectronics.com/en/start.html), Frankfurt (Oder), Germany. |
+| [Jun2011 - Jul2011] &nbsp;| **Summer Intern** &nbsp; [Central Electronics Limited](http://www.celindia.co.in/), Sahibabad (U.P.), India. |
 
-*[*]: Present
 &nbsp;
 {: style="margin-bottom: -4px"}
 <!-- Research -->
