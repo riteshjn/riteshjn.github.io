@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-Tell us about your blog. Hopefully it's cool.
+This page is currently under construction. Please check back soon.
 
 <ul class="listing">
 {% for post in site.posts %}
