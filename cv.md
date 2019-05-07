@@ -6,7 +6,7 @@ permalink: /cv/
 #  Ritesh Jain
 {: style="color:black; font-size: 3em; text-align: center; margin-bottom: 3px;"}
 <!-- Contact and Web links -->
-<a href="mailto:{{ site.email | encode_email }}"> <i class="far fa-envelope"></i> contact (at) riteshjn.com </a> | [<i class="fas fa-globe-asia"></i> riteshjn.com](https://riteshjn.com)  | [<i class="fab fa-linkedin"></i> LinkedIn](https://www.linkedin.com/in/riteshjain01)| [<i class="ai ai-google-scholar"></i> Google Scholar](https://scholar.google.com/citations?user=nN5qRzcAAAAJ)| [<i class="ai ai-orcid"></i> ORCiD](https://orcid.org/0000-0002-1139-1823) |[<i class="fas fa-globe-europe"></i> Institute website](https://www.ihct.uni-wuppertal.de/de/mitarbeiter/ritesh-jain-msc.html)
+<a href="mailto:contact<!--GO AWAY SPAM-->@<!--GO AWAY SPAM--><!--GO AWAY SPAM-->riteshjn<!--GO AWAY SPAM--><!--GO AWAY SPAM-->.<!--GO AWAY SPAM--><!--GO AWAY SPAM-->com"><i class="far fa-envelope"></i> <span class="reverse">moc.njhsetir@tcatnoc</span></a> | [<i class="fas fa-globe-asia"></i> riteshjn.com](https://riteshjn.com)  | [<i class="fab fa-linkedin"></i> LinkedIn](https://www.linkedin.com/in/riteshjain01)| [<i class="ai ai-google-scholar"></i> Google Scholar](https://scholar.google.com/citations?user=nN5qRzcAAAAJ)| [<i class="ai ai-orcid"></i> ORCiD](https://orcid.org/0000-0002-1139-1823) |[<i class="fas fa-university"></i> Institute website](https://www.ihct.uni-wuppertal.de/de/mitarbeiter/ritesh-jain-msc.html)
 {: style="color:gray; font-size: 1.0em; text-align: center"}
 
 &nbsp;
@@ -16,6 +16,7 @@ permalink: /cv/
 {: style="margin-bottom: 2px"}
 ***
 {: style="color:gainsboro; margin-bottom: 2px"}
+
 
 |--------:|:-------|
 | [2014] &nbsp;&nbsp;&nbsp;| **M.Tech in Electrical Engineering** &nbsp; [IIT Gandhinagar](https://www.iitgn.ac.in/), Gujarat, India. |

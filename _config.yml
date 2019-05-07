@@ -13,12 +13,10 @@ permalink: blog/:year/:month/:title
 job.title: "PhD scholar/Research Assistant"
 excerpt_separator: "<!--more-->"
 
+kramdown:
+  entity_output: :numeric
+
 #Gems
-
-
-plugins:
-  - jekyll-sitemap
-  - jekyll-email-protect
 
 # SEO stuff
 # google_author: ""
