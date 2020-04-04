@@ -3,4 +3,4 @@ layout: cv
 title: CV
 permalink: /cv/
 ---
-This website is under development. Please check back later.
+This page is currently under construction. Please check back soon!
